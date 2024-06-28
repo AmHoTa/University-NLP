@@ -1,0 +1,4 @@
+librosa
+numpy
+souddevice
+# ffmpeg bin in path
